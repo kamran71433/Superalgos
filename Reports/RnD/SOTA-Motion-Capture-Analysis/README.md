@@ -280,7 +280,7 @@ LiDAR-first:
   below 3° and ICCs above 0.9 for gait metrics.
   ([arXiv:2507.08268](https://arxiv.org/abs/2507.08268))
 - A 2026 upper-extremity reachable-workspace study found strong agreement for a frontal
-  single-camera setup.
+  single-camera setup (citation pending; referenced in survey literature).
 - **SAM4Dcap** points toward an open-source "biomechanical twin" pipeline by combining
   monocular 4D mesh recovery with OpenSim.
 
